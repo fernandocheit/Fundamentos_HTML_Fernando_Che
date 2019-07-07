@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg1409"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="Logo_FCHE.svg">
+  <defs
+     id="defs1403">
+    <linearGradient
+       id="linearGradient1995"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#d29800;stop-opacity:1;"
+         offset="0"
+         id="stop1993" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1995"
+       id="linearGradient1997"
+       x1="21.528401"
+       y1="133.03585"
+       x2="107.08907"
+       y2="133.03585"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.15540715"
+     inkscape:cx="813.12316"
+     inkscape:cy="16.462421"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:window-width="1366"
+     inkscape:window-height="713"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     showguides="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid6713" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata1406">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:80.84146118px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#751ce4;fill-opacity:1;stroke:none;stroke-width:2.02103639"
+       x="-556.52649"
+       y="141.08852"
+       id="text1963"
+       transform="scale(0.76520398,1.3068411)"><tspan
+         sodipodi:role="line"
+         id="tspan1961"
+         x="-556.52649"
+         y="141.08852"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';fill:#751ce4;fill-opacity:1;stroke-width:2.02103639">FERNANDO CHÉ</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 101.02788,150.00176 Z"
+       id="path1967"
+       inkscape:connector-curvature="0" />
+    <ellipse
+       style="opacity:0.57999998;fill:#d29800;fill-opacity:1;stroke:none;stroke-width:3.24970913;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.93333333"
+       id="path1999"
+       ry="122.50208"
+       rx="306.38751"
+       cy="146.1104"
+       cx="-165.44385" />
+  </g>
+</svg>
